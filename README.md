@@ -3,13 +3,9 @@ mPingWatcher – A lightweight WPF tool for real-time network monitoring via pin
 📦 Features:
 
 Count successful and failed pings
-
 Export results to Excel or JSON
-
 Sound notifications on failure
-
 Light/Dark theme support
-
 Modern UI with MVVM architecture
 
 🔧 Requirements:
